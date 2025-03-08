@@ -46,7 +46,7 @@
                 </div>
                 <div class="btn">
                     <button id="btn__letter">
-                        Mở thư nè :)))
+                        Nhận thư nè :)))
                         <i class="fa-regular fa-envelope"></i>
                     </button>
                 </div>
@@ -150,7 +150,7 @@
 </body>
 <script>
     let datetxt = "05/03/2005";
-    let datatxtletter = "Happy birthday! Sinh nhật vui vẻ nha m. Tuổi mới rạng rỡ hơn, tỏa sáng và thật nhiều niềm vui nhé. Mở thư vào 8/3 thì chúc m có ngày 8/3 vui vẻ luôn nha . Dat";
+    let datatxtletter = "Happy birthday! Sinh nhật vui vẻ nha m! Wishing you a day filled with joy, laughter, and wonderful memories 💕";
     let titleLetter = "Dear Chi";
     let charArrDate = datetxt.split('');
     let charArrDateLetter = datatxtletter.split('');
