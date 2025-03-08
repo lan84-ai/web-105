@@ -150,7 +150,7 @@
 </body>
 <script>
     let datetxt = "05/03/2005";
-    let datatxtletter = "Happy birthday! Sinh nhật vui vẻ nha m! Wishing you a day filled with joy, laughter, and wonderful memories 💕";
+    let datatxtletter = "Happy birthday! Sinh nhật vui vẻ nha m! Chúc m tuổi mới luôn rạng rỡ, đạt được nhiều thành công nhé! Wishing you a day filled with joy, laughter, and wonderful memories 💕";
     let titleLetter = "Dear Chi";
     let charArrDate = datetxt.split('');
     let charArrDateLetter = datatxtletter.split('');
